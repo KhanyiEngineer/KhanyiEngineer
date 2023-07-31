@@ -1,0 +1,11 @@
+<Student>
+  <Name>Khanyisile Mnisi</Name>
+  <ID>08954245</ID>
+  <Programme>Software Engineering</Programme>
+  <Courses>
+    <Course name="Mathematics">90</Course>
+    <Course name="Intergrative Programming">66</Course>
+    <Course name="Database Management">82</Course>
+    <Course name="Networking">80</Course>
+  </Courses>
+</Student>

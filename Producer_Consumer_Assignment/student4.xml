@@ -1,0 +1,11 @@
+<Student>
+  <Name>Sibusiso Sikhondze</Name>
+  <ID>00278621</ID>
+  <Programme>Computer Science</Programme>
+  <Courses>
+    <Course name="Mathematics">85</Course>
+    <Course name="Intergrative Programming">68</Course>
+    <Course name="Database Management">63</Course>
+    <Course name="Networking">79</Course>
+  </Courses>
+</Student>

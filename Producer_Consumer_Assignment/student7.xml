@@ -1,0 +1,11 @@
+<Student>
+  <Name>Lungile Sikhondze</Name>
+  <ID>01995432</ID>
+  <Programme>Information Technology</Programme>
+  <Courses>
+    <Course name="Mathematics">67</Course>
+    <Course name="Intergrative Programming">78</Course>
+    <Course name="Database Management">95</Course>
+    <Course name="Networking">94</Course>
+  </Courses>
+</Student>

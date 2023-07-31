@@ -1,0 +1,11 @@
+<Student>
+  <Name>Nhlanhla Dlamini</Name>
+  <ID>05670684</ID>
+  <Programme>Computer Science</Programme>
+  <Courses>
+    <Course name="Mathematics">98</Course>
+    <Course name="Intergrative Programming">89</Course>
+    <Course name="Database Management">70</Course>
+    <Course name="Networking">95</Course>
+  </Courses>
+</Student>

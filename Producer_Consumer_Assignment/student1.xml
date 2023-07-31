@@ -1,0 +1,11 @@
+<Student>
+  <Name>Petros Magagula</Name>
+  <ID>03936312</ID>
+  <Programme>Software Engineering</Programme>
+  <Courses>
+    <Course name="Mathematics">67</Course>
+    <Course name="Intergrative Programming">92</Course>
+    <Course name="Database Management">88</Course>
+    <Course name="Networking">74</Course>
+  </Courses>
+</Student>

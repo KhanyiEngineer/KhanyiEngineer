@@ -1,0 +1,11 @@
+<Student>
+  <Name>Vusumuzi Gamedze</Name>
+  <ID>01310246</ID>
+  <Programme>Computer Science</Programme>
+  <Courses>
+    <Course name="Mathematics">84</Course>
+    <Course name="Intergrative Programming">74</Course>
+    <Course name="Database Management">84</Course>
+    <Course name="Networking">87</Course>
+  </Courses>
+</Student>
