@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KhanyiEngineer
-- 👀 I’m interested in Web Technology, Metarverse and Deep learning (computer vision)
-- 🌱 I’m currently pursuing BSc IT/Computer Science 
+- 👋 Hi, I’m @KhanyiEngineer (Khanyisile Tapiwa Magagula)
+- 👀 I’m interested in Deep learning (computer vision), AI for Healthcare, AI for Agriculture
+- 🌱 I am the Co-Founder of AI Eswatini with a background in BSc IT/Computer Science 
 - 📫 How to reach me (email me: khanyisile@aieswatini.org)
 
 <!---
